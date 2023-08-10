@@ -2,6 +2,20 @@
 
 This is some plain text to separate the headers.
 
+The canonical "Hello World !" in c.
+```c
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello, World!\n");
+}
+```
+a cube in openscad
+```openscad
+cube(size = 18);
+```
+
 ## This is the H2 header, it's also pretty large.
 
 More plain text here.
@@ -12,3 +26,4 @@ The H6 header may be indistinguishable from bold plain text.
 
 
 ![An image of Hu-bot. I don't know who this is](https://octodex.github.com/images/hubot.jpg)
+
