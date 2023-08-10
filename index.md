@@ -9,3 +9,6 @@ More plain text here.
 ###### The H6 header is the smallest / lowest header.
 
 The H6 header may be indistinguishable from bold plain text.
+
+
+![An image of Hu-bot. I don't know who this is](https://octodex.github.com/images/hubot.jpg)
