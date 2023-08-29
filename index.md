@@ -1,4 +1,4 @@
-# This is het H1 header. It is the top or largest header.
+# This is the H1 header. It is the top or largest header.
 
 This is some plain text to separate the headers.
 
